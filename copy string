@@ -1,5 +1,4 @@
 // Program to copy a string
-
 #include <stdio.h>
 int main()
 {
